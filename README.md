@@ -5,9 +5,7 @@
 ## Install
 
 ```bash
-npm install vite-plugin-html-inline-svg -D
-or
-pnpm add vite-plugin-html-inline-svg -D
+npm install -D git+ssh@github.com:im4LF/vite-plugin-html-inline-svg.git
 ```
 
 ## Usage
