@@ -1,0 +1,30 @@
+{
+  "name": "vite-plugin-html-inline-svg",
+  "version": "1.0.0",
+  "description": "A vite plugin that embed svg inline in html files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/im4LF/vite-plugin-html-inline-svg.git"
+  },
+  "keywords": [
+    "vite",
+    "svg",
+    "html-inline-svg"
+  ],
+  "author": "im4LF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/im4LF/vite-plugin-html-inline-svg/issues"
+  },
+  "homepage": "https://github.com/im4LF/vite-plugin-html-inline-svg#readme",
+  "devDependencies": {
+    "kolorist": "^1.5.1",
+    "lodash": "^4.17.21",
+    "parse5": "^7.0.0",
+    "svgo": "^2.8.0"
+  }
+}
